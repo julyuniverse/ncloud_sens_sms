@@ -1,4 +1,4 @@
-### ncloud sens sms
+# ncloud sens sms
 > ncloud의 sens sms를 이용해 문자 메시지 전송
  - 메시지 전송 시스템을 모듈화
  - 고객의 이름과 전화번호를 받아 post 방식으로 localhost:3000/sens/sms에 요청해서 고객에게 메시지 전송
